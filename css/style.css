@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+img {
+  max-width: 100%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+body {
+  background: black;
+}
+.first_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/pexels-photo-10003543.jpeg);
+  background-size: cover;
+}
+.real {
+  font-family: Merriweather, serif !important;
+  font-size: 6rem;
+}
+.agency {
+  font-family: Roboto, sans-serif;
+  letter-spacing: 8px;
+}
+.second_image {
+  width: 16rem;
+  height: 16rem;
+  background: url(../img/pexels-photo-6988826.jpeg);
+  background-size: cover;
+}
+.left_about {
+  background: #dd2f37;
+  width: 34rem;
+}
+.right_about {
+  width: 34rem;
+}
+.view {
+  letter-spacing: 3px;
+  border-bottom: 2px solid white;
+}
+.third_image {
+  width: 16rem;
+  height: 16rem;
+  background: url(../img/pexels-photo-5233311.jpeg);
+  background-size: cover;
+}
+.Estate {
+  font-family: Merriweather, serif !important;
+  font-size: 3.5rem;
+}
+.merri_weather {
+  font-family: Merriweather, serif !important;
+}
+.fourth_image {
+  width: 20rem;
+  height: 20rem;
+  background: url(../img/pexels-photo-9410735.jpeg);
+  background-size: cover;
+}
+.real_states {
+  text-align: justify;
+  width: 28rem;
+}
+.budget {
+  background: #333333;
+  width: 22rem;
+}
+.agency_two {
+  font-family: Roboto, sans-serif;
+  letter-spacing: 4px;
+}
+.fifth_image {
+  width: 14rem;
+  height: 14rem;
+  background: url(../img/pexels-photo-9781548.jpeg);
+  background-size: cover;
+}
+.sixth_image {
+  width: 14rem;
+  height: 14rem;
+  background: url(../img/pexels-photo-9781543.jpeg);
+  background-size: cover;
+}
+.seventh_image {
+  width: 14rem;
+  height: 14rem;
+  background: url(../img/pexels-photo-9392381.jpeg);
+  background-size: cover;
+}
+.text_inharite {
+  background: #dd2f37;
+  width: 17rem;
+}
+.eight_image {
+  width: 25rem;
+  height: 25rem;
+  background: url(../img/pexels-photo-9661740.jpeg);
+  background-size: cover;
+}
+.cllick_box {
+  width: 36rem;
+}
+.tenth_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/ffff-min.jpg);
+  background-size: cover;
+}
+.eleventh_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/pexels-photo-7241791.jpeg);
+  background-size: cover;
+}
+.realestate {
+  background: #dd2f37;
+}
+.twelveth_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/pexels-photo-10210260.jpeg);
+  background-size: cover;
+}
+.thirteenth_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/pexels-photo-7242297.jpeg);
+  background-size: cover;
+}
+.quotes {
+  width: 10%;
+}
+.formerly {
+  font-family: Merriweather, serif !important;
+  width: 65rem;
+  margin-left: 6rem;
+}
+.money {
+  width: 40rem;
+  margin-left: 6rem;
+}
+.img_formerly {
+  margin-left: 6rem;
+}
+.fourteenth_image {
+  width: 17rem;
+  height: 17rem;
+  background: url(../img/pexels-photo-8843111.jpeg);
+  background-size: cover;
+}
+.ADDRESS {
+  background: #f2f2f2;
+  width: 20rem;
+  height: 16rem;
+}
+.ADDRESS_TWO {
+  background: #dd2f37;
+  width: 20rem;
+  height: 16rem;
+}
+#eventhenth {
+  background: #e6d9d9;
+}
+#tenth {
+  background: url(../img/pexels-photo-6988826.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
